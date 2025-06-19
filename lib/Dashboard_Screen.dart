@@ -13,7 +13,6 @@ class _DashboardScreenState extends State<DashboardScreen> {
       backgroundColor: Colors.grey.shade100,
       body: Column(
         children: [
-          // Header
           Container(
             padding: EdgeInsets.only(top: 60, left: 20, right: 20, bottom: 20),
             decoration: BoxDecoration(
@@ -45,7 +44,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceAround,
                   children: [
-                    actionButton(Icons.send, 'Kirim'),
+                    actionButton(Icons.send, 'Kirimmmmmmmmmm'),
                     actionButton(Icons.add, 'Isi Ulang'),
                     actionButton(Icons.receipt, 'Tagihan'),
                     actionButton(Icons.more_horiz, 'Lebih'),
